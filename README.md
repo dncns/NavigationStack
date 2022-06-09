@@ -7,7 +7,10 @@ This repo accompanies my first blog post written [here](https://dev.to/kuncans/t
 Thanks for reading!
 
 ### Relevant Links
-https://developer.apple.com/documentation/swiftui/navigationstack
-https://developer.apple.com/documentation/swiftui/view/navigationdestination(for:destination:)
-https://developer.apple.com/documentation/swiftui/navigationlink
-https://developer.apple.com/documentation/swiftui/navigationpath
+[NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
+
+[NavigationPath](https://developer.apple.com/documentation/swiftui/navigationpath)
+
+[NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink)
+
+[navigationDestination](https://developer.apple.com/documentation/swiftui/view/navigationdestination(for:destination:))
